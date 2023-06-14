@@ -1,9 +1,9 @@
 ### Hi there 👋🏾
 
 
-   Me desenvolvendo para Desenvolver.
-   
    Desenvolvedora de Software Back-end Júnior. 
+   
+   Em contínuo aprendizado.
 
 
 - 🚀 Atualmente estou trabalhando em Zup Innovation  
