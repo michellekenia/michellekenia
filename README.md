@@ -1,7 +1,8 @@
 ### Hi there 👋🏾
 
 
-   Me desenvolvendo para Desenvolver. 
+   Me desenvolvendo para Desenvolver.
+   
    Desenvolvedora de Software Back-end Júnior. 
 
 
