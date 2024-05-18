@@ -1,4 +1,4 @@
 ### Hi there 👋🏾
 
 
-   Desenvolvedora de Software Back-end Júnior. 
+Atualmente estudando JavaScript, TypeScript e Angular. 
