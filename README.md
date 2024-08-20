@@ -1,1 +1,1 @@
-Atualmente estudando JavaScript, TypeScript e Angular. 
+Atualmente estudando JavaScript, TypeScript, NestJs e Angular. 
